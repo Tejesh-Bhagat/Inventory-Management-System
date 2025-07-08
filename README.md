@@ -1,3 +1,4 @@
+
 # 📦 Inventory Management System
 
 A complete, production-ready **Inventory Management System** built with **Java Spring Boot** backend and **HTML/CSS/JavaScript** frontend. This system provides comprehensive inventory tracking, product management, and supplier management capabilities.
@@ -305,3 +306,7 @@ This project demonstrates:
 ---
 
 *Made with ❤️ for learning and professional development*
+=======
+# Inventory-Management-System
+A full-stack inventory management system built with Java, Spring Boot, Hibernate, and MySQL.
+ f72669f5297f3fd481da499ccee3e046f605816f
