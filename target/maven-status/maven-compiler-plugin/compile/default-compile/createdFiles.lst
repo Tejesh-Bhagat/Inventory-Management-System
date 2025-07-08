@@ -1,0 +1,5 @@
+com\inventory\model\Supplier.class
+com\inventory\model\Category.class
+com\inventory\repository\CategoryRepository.class
+com\inventory\model\Product.class
+com\inventory\service\CategoryService.class
